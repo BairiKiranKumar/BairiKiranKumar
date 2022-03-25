@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development.**
 
-- 👨‍💻 All of my projects are available at [here](here)
+- 👨‍💻 All of my projects are available at [https://github.com/BairiKiranKumar?tab=repositories](here)
 
 - 📫 How to reach me **kirankumarbairi1999@gmail.com**
 
