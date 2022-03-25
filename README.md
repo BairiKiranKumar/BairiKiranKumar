@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bairikirankumar&label=Profile%20views&color=0e75b6&style=flat" alt="bairikirankumar" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Web Development From Skill Safari(e-learning platform).**
+- 🌱 I’m currently learning **Full Stack Web Development.**
 
 - 👨‍💻 All of my projects are available at [here](here)
 
 - 📫 How to reach me **kirankumarbairi1999@gmail.com**
 
-- ⚡ Fun fact **I think I am funny XD**
+- ⚡  Fact **Learn Everything that comes your way**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
