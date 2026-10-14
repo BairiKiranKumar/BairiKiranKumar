@@ -9,7 +9,6 @@
   <a href="mailto:kirankumarbairi1999@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <img src="https://visitcount.itsvg.in/api?id=bairikirankumar&label=Profile%20Views&color=12&icon=5&pretty=true" alt="Profile Views" />
 </div>
 
 ---
